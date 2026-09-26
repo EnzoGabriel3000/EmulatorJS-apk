@@ -90,6 +90,28 @@ O conjunto de cores do EmulatorJS 4.2.3 inclui:
 
 ---
 
+## 📜 Licenças dos componentes
+
+O pacote **@emulatorjs/cores 4.2.3** é identificado como **GPL-3.0**, assim como o pacote principal **@emulatorjs/emulatorjs 4.2.3**.
+
+Os cores individuais, entretanto, possuem seus próprios arquivos de licença e avisos de copyright. Os metadados oficiais do pacote fazem referência, entre outros, a arquivos como:
+
+- `LICENSE`
+- `LICENSE.txt`
+- `LICENSE.TXT`
+- `LICENSE.md`
+- `COPYING`
+- `License.txt`
+- `src/license.txt`
+
+Esses arquivos fazem parte dos respectivos pacotes dos cores e devem ser preservados quando os componentes forem redistribuídos.
+
+Este repositório não substitui nem altera as licenças originais dos componentes utilizados.
+
+Para consultar os arquivos de licença e o código-fonte dos componentes, consulte o projeto original e os respectivos pacotes distribuídos pelo EmulatorJS.
+
+---
+
 ## 📱 Versão Android
 
 Esta versão reúne o **EmulatorJS em um aplicativo Android**, utilizando WebView para executar a interface e os componentes web localmente.
@@ -139,13 +161,13 @@ Todos os créditos referentes ao projeto original, seus autores e contribuidores
 
 ---
 
-## 📜 Licenciamento
+## 📄 Licenciamento
 
-O EmulatorJS é distribuído sob a **GNU General Public License v3.0 (GPLv3)**.
+O projeto principal **EmulatorJS 4.2.3** é distribuído sob a **GNU General Public License v3.0 (GPLv3)**.
 
-A licença permite o uso, estudo, modificação e redistribuição do software de acordo com os termos estabelecidos pela GPLv3.
+A redistribuição dos componentes deve respeitar também as respectivas licenças, avisos de copyright e arquivos de licença fornecidos com cada componente.
 
-Para consultar a licença e o código-fonte original:
+Para consultar o código-fonte e as informações oficiais de licenciamento:
 
 **EmulatorJS/EmulatorJS:**  
 https://github.com/EmulatorJS/EmulatorJS
