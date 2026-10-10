@@ -1,6 +1,6 @@
 # 🎮 EmulatorJS
 
-### EmulatorJS v4.2.3 — APK v4.3.6
+### EmulatorJS — APK
 
 O **EmulatorJS** é uma plataforma de emulação auto-hospedada baseada em tecnologias web modernas, como **JavaScript** e **WebAssembly (WASM)**.
 
@@ -16,7 +16,7 @@ Utiliza binários **WebAssembly** para processamento eficiente, baixa latência 
 
 ### 🎮 Compatibilidade multissistema
 
-O conjunto de cores utilizado pelo EmulatorJS 4.2.3 inclui suporte para diversos sistemas e plataformas.
+O conjunto de cores utilizado pelo EmulatorJS inclui suporte para diversos sistemas e plataformas.
 
 ### 💾 Save State
 
@@ -35,7 +35,7 @@ Suporte a múltiplos idiomas, com tradução e detecção do sistema configurada
 
 ## 🧩 Cores disponíveis
 
-O conjunto de cores do EmulatorJS 4.2.3 inclui:
+O conjunto de cores do EmulatorJS inclui:
 
 - 81
 - Atari 5200
@@ -92,7 +92,7 @@ O conjunto de cores do EmulatorJS 4.2.3 inclui:
 
 ## 📜 Licenças dos componentes
 
-O pacote **@emulatorjs/cores 4.2.3** é identificado como **GPL-3.0**, assim como o pacote principal **@emulatorjs/emulatorjs 4.2.3**.
+O pacote **@emulatorjs/cores** é identificado como **GPL-3.0**, assim como o pacote principal **@emulatorjs/emulatorjs**.
 
 Os cores individuais, entretanto, possuem seus próprios arquivos de licença e avisos de copyright. Os metadados oficiais do pacote fazem referência, entre outros, a arquivos como:
 
@@ -115,12 +115,6 @@ Para consultar os arquivos de licença e o código-fonte dos componentes, consul
 ## 📱 Versão Android
 
 Esta versão reúne o **EmulatorJS em um aplicativo Android**, utilizando WebView para executar a interface e os componentes web localmente.
-
-### 📦 Download
-
-**EmulatorJS v4.3.6 — APK**
-
-[Baixar APK pela Release v4.3.6](https://github.com/EnzoGabriel3000/EmulatorJS-apk/releases/tag/v4.3.6)
 
 > O APK possui aproximadamente **294 MiB**, principalmente devido aos cores de emulação incluídos no aplicativo.
 
@@ -163,7 +157,7 @@ Todos os créditos referentes ao projeto original, seus autores e contribuidores
 
 ## 📄 Licenciamento
 
-O projeto principal **EmulatorJS 4.2.3** é distribuído sob a **GNU General Public License v3.0 (GPLv3)**.
+O projeto principal **EmulatorJS** é distribuído sob a **GNU General Public License v3.0 (GPLv3)**.
 
 A redistribuição dos componentes deve respeitar também as respectivas licenças, avisos de copyright e arquivos de licença fornecidos com cada componente.
 
@@ -176,7 +170,6 @@ https://github.com/EmulatorJS/EmulatorJS
 
 ## 🔗 Links
 
-- 📦 **APK:** https://github.com/EnzoGabriel3000/EmulatorJS-apk/releases/tag/v4.3.6
 - 💻 **Este repositório:** https://github.com/EnzoGabriel3000/EmulatorJS-apk
 - 🌐 **Site oficial do EmulatorJS:** https://emulatorjs.org/
 - 🔧 **Projeto original:** https://github.com/EmulatorJS/EmulatorJS
