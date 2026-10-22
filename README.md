@@ -170,7 +170,6 @@ https://github.com/EmulatorJS/EmulatorJS
 
 ## 🔗 Links
 
-- 💻 **Este repositório:** https://github.com/EnzoGabriel3000/EmulatorJS-apk
 - 🌐 **Site oficial do EmulatorJS:** https://emulatorjs.org/
 - 🔧 **Projeto original:** https://github.com/EmulatorJS/EmulatorJS
 
