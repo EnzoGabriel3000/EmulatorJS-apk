@@ -175,7 +175,7 @@ https://github.com/EmulatorJS/EmulatorJS
 
 ---
 
-## Meus canais
+## 🔗 Meus canais
 
 - 🌐 **Sketchub:** https://web.sketchub.in/u/GP3k_Interactive
 - 🔧 **AppTeka:** https://appteka.store/profile/497502
