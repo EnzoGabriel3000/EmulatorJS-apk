@@ -175,6 +175,13 @@ https://github.com/EmulatorJS/EmulatorJS
 
 ---
 
+## Meus canais
+
+- 🌐 **Sketchub:** https://web.sketchub.in/u/GP3k_Interactive
+- 🔧 **AppTeka:** https://appteka.store/profile/497502
+
+---
+
 ### 🎮 EmulatorJS
 
 **WebAssembly • Libretro • JavaScript • Android**
