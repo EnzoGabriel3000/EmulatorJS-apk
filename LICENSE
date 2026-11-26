@@ -1,0 +1,32 @@
+LICENSE — EmulatorJS-apk
+
+1. Identificação do aplicativo
+
+Projeto: EmulatorJS-apk
+Responsável pelo aplicativo Android: EnzoGabriel3000
+Plataforma: Android
+Tecnologias: Java, Android SDK e WebView.
+
+2. Projeto EmulatorJS incorporado
+
+Este APK contém o projeto original EmulatorJS, desenvolvido pela comunidade EmulatorJS, importado integralmente para a estrutura interna do aplicativo, dentro da pasta "assets".
+
+O projeto original foi incorporado preservando sua estrutura de diretórios, pastas e arquivos, sem modificações ou perdas em sua organização original.
+
+O EmulatorJS permanece sob a GNU General Public License v3.0 (GPLv3), respeitando também as licenças individuais de seus componentes e respectivos cores.
+
+Projeto original: https://github.com/EmulatorJS/EmulatorJS
+
+3. Distribuição do aplicativo Android
+
+O EmulatorJS-apk pode ser distribuído, compartilhado, hospedado e redistribuído integralmente, desde que sua distribuição respeite as condições, obrigações e restrições estabelecidas pelas licenças do EmulatorJS incorporado e dos demais componentes utilizados.
+
+A distribuição do APK não concede direitos adicionais sobre os componentes de terceiros nem substitui suas licenças originais.
+
+4. Licenciamento
+
+A distribuição deste aplicativo deve observar a GNU General Public License v3.0 (GPLv3), quando aplicável ao conjunto distribuído, bem como as respectivas licenças dos componentes individuais incorporados.
+
+Texto oficial da GPLv3: https://www.gnu.org/licenses/gpl-3.0.txt
+
+Repositório original: https://github.com/EmulatorJS/EmulatorJS
